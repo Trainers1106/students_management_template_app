@@ -39,6 +39,14 @@
 5. npx create-react-app . --template @chakra-ui/typescript --use-npm #プロジェクト作成時に最初だけ
 6. docker-compose down #停止
  
+# 画面の抜粋
+
+![サンプル1画像](サンプル1.png)
+![サンプル2画像](サンプル2.png)
+![サンプル3画像](サンプル3.png)
+
+
+
 # Author
  
 * 作成者：五十嵐弘樹，並木海大
