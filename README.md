@@ -41,9 +41,11 @@
  
 # 画面の抜粋
 
-<img src="サンプル1.png" alt="サンプル1画像" style="width:50%;">
-<img src="サンプル2.png" alt="サンプル2画像" style="width:50%;">
-<img src="サンプル2.png" alt="サンプル2画像" style="width:50%;">
+<p align="center">
+  <img src="サンプル1.png" alt="サンプル1画像" style="width:30%; display:inline-block;">
+  <img src="サンプル2.png" alt="サンプル2画像" style="width:30%; display:inline-block;">
+  <img src="サンプル2.png" alt="サンプル2画像" style="width:30%; display:inline-block;">
+</p>
 
 
 
