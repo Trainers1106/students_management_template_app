@@ -41,9 +41,9 @@
  
 # 画面の抜粋
 
-![サンプル1画像](サンプル1.png)
-![サンプル2画像](サンプル2.png)
-![サンプル3画像](サンプル3.png)
+<img src="サンプル1.png" alt="サンプル1画像" style="width:50%;">
+<img src="サンプル2.png" alt="サンプル2画像" style="width:50%;">
+<img src="サンプル2.png" alt="サンプル2画像" style="width:50%;">
 
 
 
